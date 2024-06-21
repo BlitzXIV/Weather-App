@@ -1,0 +1,9 @@
+Markup and style website
+
+colors(hexcodes)
+
+
+
+add openweather api 
+
+
