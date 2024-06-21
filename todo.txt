@@ -2,7 +2,11 @@ Markup and style website
 
 colors(hexcodes)
 
-
+--rich-black: #0E2130ff;
+--caput-mortuum: #682921ff;
+--rich-black-2: #17212Cff;
+--wenge: #785E56ff;
+--chestnut: #8C4737ff;
 
 add openweather api 
 
